@@ -9,4 +9,4 @@ biologically and often reported under the same generic term histopathologically.
 view, lichen planus-like keratoses are especially challenging because they can show morphologic features
 mimicking melanoma and are often biopsied or excisedfor diagnostic reasons. The dermatoscopic appearance of seborrheic keratoses varies according to anatomic site and type.
 
-You probably should not worry about your condition but asking your doctor about it is always a good idea.
+## You probably should not worry about your condition but asking your doctor about it is always a good idea.

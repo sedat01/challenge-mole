@@ -1,3 +1,3 @@
 # Vascular skin lesion
 
-Those are not cancers. But you should still contact your doctor
+## Those are not cancers. But you should still contact your doctor

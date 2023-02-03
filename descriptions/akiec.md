@@ -11,4 +11,4 @@ damaged except in cases of Bowen's disease that are caused by human papilloma vi
 by UV. Pigmented variants exist for Bowen's disease and for actinic keratoses, and both are included
 in this set.
 
-If your result is Actinic Keratoses it can be treated without surgery, keep calm and see a doctor. Your condition is probably not seriuos.
+## If your result is Actinic Keratoses it can be treated without surgery, keep calm and see a doctor. Your condition is probably not serious.

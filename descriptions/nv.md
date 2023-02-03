@@ -4,4 +4,4 @@ Melanocytic nevi are benign neoplasms of melanocytes and appear in a myriad of v
 included in our series. The variants may differ significantly from a dermatoscopic point of view. In
 contrast to melanoma they are usually symmetric with regard to the distribution of color and structure.
 
-Those are benign formations and carry no risk to your health.
+## Those are benign formations and carry no risk to your health.
