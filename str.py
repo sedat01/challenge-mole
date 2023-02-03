@@ -11,7 +11,8 @@ except:
   # Invalid device or cannot modify virtual devices once initialized.
   pass
 model = tf.keras.models.load_model("./model.h5")
-st.write("Upload an image")
+with open("./descriptions/info.md") as f:
+  st.markdown(f.read())
 im = st.file_uploader("Choose a file",type="jpg")
 
 diagnose_dict = {0:"akiec",
